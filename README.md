@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Mariozan Damasceno
+# 👋 Olá! Eu sou o Mariozan Júnior
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre - UNIP)  
 📍 São José dos Campos – SP  
