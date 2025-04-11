@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Mariozan Damasceno
 
-<!--
-**MariozanJr/MariozanJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre - UNIP)  
+📍 São José dos Campos – SP  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- C, C#, .NET (iniciante)
+- Programação Orientada a Objetos (POO)
+- HTML, CSS
+- Metodologias Ágeis (Scrum)
+- UML
+- SQL Server
+- Git e GitHub
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- Email: mariozanjunior15@gmail.com  
+- Instagram: [@mariozan.dev](https://www.instagram.com/mariozan.dev/)  
+- LinkedIn: [linkedin.com/in/mariozanjunior](https://www.linkedin.com/in/mariozanjunior/)
