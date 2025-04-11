@@ -12,6 +12,10 @@
 - Programação Orientada a Objetos (POO)
 - Metodologias Ágeis (Scrum)
 - UML
+  
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariozanJr&show_icons=true&theme=transparent)
+
 
 ## 📫 Contato
 - Email: mariozanjunior15@gmail.com  
